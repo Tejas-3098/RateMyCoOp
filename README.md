@@ -1,8 +1,5 @@
 # RateMyCoOp – Northeastern Co-op Experience Review App
 
-## Project Duration
-Sep 2023 – Dec 2023
-
 ## Overview
 RateMyCoOp is an innovative web application prototype developed to enable Northeastern University students to rate and review their co-op experiences. This high-fidelity prototype has been crafted following an extensive user-centered design process.
 
@@ -36,7 +33,7 @@ Northeastern students lack a dedicated platform to provide transparent feedback 
 - **Ashok More**: UX/UI Designer - [more.as@northeastern.edu](more.as@northeastern.edu)
 
 ## Accessing the Prototype
-*You can click on the High-fidelity prototype link and the application opens on your browser. You can open the link on your smartphone, tablet, laptop or computer. You can then interact with the app similar to how you would interact with any app on your smartphone.*
+You can click on the High-fidelity prototype link and the application opens on your browser. You can open the link on your smartphone, tablet, laptop or computer. You can then interact with the app similar to how you would interact with any app on your smartphone.
 
 ## Feedback and Contributions
 Your feedback and contributions are greatly appreciated. If you have suggestions or would like to contribute, please feel free to reach out or submit an issue or pull request on GitHub.
